@@ -1,0 +1,15 @@
+C:\SW Development\Info340\Store\Store\bin\Debug\Store.exe
+C:\SW Development\Info340\Store\Store\bin\Debug\Store.pdb
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\MainWindow.baml
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\MainWindow.g.cs
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\App.g.cs
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\Store_MarkupCompile.cache
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\Store.g.resources
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\Store.Properties.Resources.resources
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\Store.csproj.GenerateResource.Cache
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\Store.exe
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\Store.pdb
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\AddOrder.baml
+C:\SW Development\Info340\Store\Store\obj\x86\Debug\AddOrder.g.cs
+D:\Documents\Classes\Old Classes\info340\Projects\Store\Store\obj\x86\Debug\Store.exe
+D:\Documents\Classes\Old Classes\info340\Projects\Store\Store\obj\x86\Debug\Store.pdb
